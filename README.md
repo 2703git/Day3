@@ -33,4 +33,12 @@ challenge day 3/30
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/2703git/Day3/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/2703git/Day3/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/2703git/Day3/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
