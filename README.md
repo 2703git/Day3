@@ -25,4 +25,12 @@ challenge day 3/30
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/2703git/Day3/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/2703git/Day3/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/2703git/Day3/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
